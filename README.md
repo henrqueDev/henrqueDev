@@ -1,53 +1,74 @@
+# Hi, i am Luís Henrique 👋
 
-![](https://komarev.com/ghpvc/?username=henrique15775&color=006bed)
+### About me 
+💻 I am a Fullstack Deveoloper
+👩‍💻 1 year and 6 months internship experience as a Frontend Developer ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)  at Assert IFPB
 
-<h3> 🧝‍♂️: &nbsp;About me </h3>
+<!-- Isso é um comentário, não irá aparecer no seu perfil
+(Abaixo você seleciona o curso que você está fazendo no momento) -->
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Studying Internet Systems at <a href="https://www.ifpb.edu.br/joaopessoa">IFPB</a>.
-- 💼 &nbsp; Interning as a Front-end Developer
-- 🌱 &nbsp; Learning about Vue.js, Flask and SpringBoot.
+🎓 I am studying Tecnologia em Sistemas para Internet @ Instituto Federal da Paraíba - Campus João Pessoa
 
-<h3> :rocket: &nbsp;My Skills </h3>
+✒️ I like to read mangas and watch videos in youtube about Games in foreign languages to practice my reading and listening skills in english;
 
-**Apps and Data**
+📚 Reading: Clean code
 
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Henrique-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Henrique-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Henrique-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Henrique-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Henrique-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+**Tecnologies and Tools**
+
+<!-- (Aqui você pode adicionar tecnologias que aprendeu no curso, já listamos algumas delas, e outras que já domina)) -->
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%23FFA500.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%2300FF7F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+<!-- (Já colocar tecnologias do On Demand que aprende no curso)) -->
+
+### I am studying... 🧩
+<!-- (Aqui você pode adicionar tecnologias que está estudando, inclusive para aumentar essa lista você listamos algumas das tecnologias ensinadas na nossa [Assinatura On Demand](https://cubos.academy/cubosondemand)) -->
+
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%2300FF7F.svg?style=for-the-badge&logo=spring&logoColor=white)
+
+<!-- (Você pode adicionar novas tecnologias insira ![Nome da Tecnologia](https://img.shields.io/badge/-[Nome da tecnologia]-[Cor do fundo]?style=flat-square&logo=[Nome da tecnologia])) -->
+
+<!--  ### Cursos realizados 🤓
+
+<!-- (Aqui você pode adicionar cursos que você já fez) -->
+<!-- 
+![DDS Cubos Academy](https://img.shields.io/badge/-DDS%20Cubos%20Academy-19272E?style=for-the-badge&?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAEQSURBVHgBjZLNTcNAEIXfrJMoPSAkpwNTAaYCSAfugD0GThzgjOiADhAdhApwB1l+JK6cI3aHGWstbeKNnJFWtsffm3myHyDFzFbOhsfrXU6DKGqiqMZIKRNZizhlIPrGbfWFVdf/xM2VPqfiidxXRLQezqdHg8L9YOUCzEsAXXRdYUVYTnKWBC4DUCvMMDUB7hT3O8NNTugFRoQJdB3gX/eZ7MYejpurP8yXA0a/sfimXZvFZovpYoqtlSHnJ3g4S0WqMRmbVi7tAndOXl568FPOlck0Olh/BYNKj9l6VJjCYrFh8JtuPiT86ANAmP96hKXCjOIZmNl9QWTbNKc1RiqJXNM3NK/tESF3XU6l/gHnFvELsPPX8gAAAABJRU5ErkJggg==&link=https://cubos.academy/)
+![DBE Cubos Academy](https://img.shields.io/badge/-DBE%20Cubos%20Academy-19272E?style=for-the-badge&?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAEQSURBVHgBjZLNTcNAEIXfrJMoPSAkpwNTAaYCSAfugD0GThzgjOiADhAdhApwB1l+JK6cI3aHGWstbeKNnJFWtsffm3myHyDFzFbOhsfrXU6DKGqiqMZIKRNZizhlIPrGbfWFVdf/xM2VPqfiidxXRLQezqdHg8L9YOUCzEsAXXRdYUVYTnKWBC4DUCvMMDUB7hT3O8NNTugFRoQJdB3gX/eZ7MYejpurP8yXA0a/sfimXZvFZovpYoqtlSHnJ3g4S0WqMRmbVi7tAndOXl568FPOlck0Olh/BYNKj9l6VJjCYrFh8JtuPiT86ANAmP96hKXCjOIZmNl9QWTbNKc1RiqJXNM3NK/tESF3XU6l/gHnFvELsPPX8gAAAABJRU5ErkJggg==&link=https://cubos.academy/)
+-->
+
+
+### GitHub Stats ⚡
+
+
+![[Luís Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=henrqueDev)](https://github-readme-stats.vercel.app/api?username=henrqueDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![[Luís Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=henrqueDev)](https://github-readme-stats.vercel.app/api/top-langs/?username=henrqueDev&layout=compact&langs_count=7&theme=tokyonight)
+### Entre em contato comigo! 📭
+<div>
+[![Linkedin: Luís Henrique](https://img.shields.io/badge/-Henrique-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lu%C3%ADs-henrique-433b76210)](https://www.linkedin.com/in/lu%C3%ADs-henrique-433b76210)
+
 </div>
 
-**Utilities**
 
-  ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-
-**DevOps**
-
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-
-**Development tools**
-
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-  
-
-<br/>
-
-
-<br/>
-
-<h3> :earth_americas: &nbsp;Where to find me: </h3> 
-
-[![Linkedin: Luís Henrique](https://img.shields.io/badge/-Henrique-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lu%C3%ADs-henrique-433b76210)](https://www.linkedin.com/in/lu%C3%ADs-henrique-433b76210)
-[![GitHub Luís Henrique]( https://img.shields.io/github/followers/henrqueDev?label=follow&style=social)](https://github.com/henrqueDev)
+<!--
+**academy-readme-template** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
