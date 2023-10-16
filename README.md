@@ -61,7 +61,7 @@
 
 
 ![[Luís Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=henrqueDev)](https://github-readme-stats.vercel.app/api?username=henrqueDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-![[Luís Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=henrqueDev)](https://github-readme-stats.vercel.app/api/top-langs/?username=henrqueDev&layout=compact&langs_count=7&theme=tokyonight)
+![[Luís Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=henrqueDev)](https://github-readme-stats.vercel.app/api/top-langs/?username=henrqueDev&layout=compact&langs_count=15&theme=tokyonight)
 ### Entre em contato comigo! 📭
 <div>
 [![Linkedin: Luís Henrique](https://img.shields.io/badge/-Henrique-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lu%C3%ADs-henrique-433b76210)](https://www.linkedin.com/in/lu%C3%ADs-henrique-433b76210)
