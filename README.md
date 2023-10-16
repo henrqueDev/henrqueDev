@@ -65,7 +65,7 @@
 
 ![[Luís Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=henrqueDev)](https://github-readme-stats.vercel.app/api?username=henrqueDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 ![[Luís Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=henrqueDev)](https://github-readme-stats.vercel.app/api/top-langs/?username=henrqueDev&layout=compact&langs_count=15&theme=tokyonight)
-### Entre em contato comigo! 📭
+### Contact me! 📭
 <div>
 <a href="https://www.linkedin.com/in/lu%C3%ADs-henrique-433b76210" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 
