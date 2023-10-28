@@ -72,7 +72,7 @@
 ### Contact me! 📭
 <div>
 <a href="https://www.linkedin.com/in/lu%C3%ADs-henrique-433b76210" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-
+[![Gmail Badge](https://img.shields.io/badge/-lhdeveloper137@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lhdeveloper137@gmail.com)](mailto:lhdeveloper137@gmail.com)  
 </div>
 
 
