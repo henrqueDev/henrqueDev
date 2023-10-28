@@ -64,16 +64,16 @@
 -->
 
 
+
 ### GitHub Stats ⚡
 
 
 ![[Luís Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=henrqueDev)](https://github-readme-stats.vercel.app/api?username=henrqueDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 ![[Luís Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=henrqueDev)](https://github-readme-stats.vercel.app/api/top-langs/?username=henrqueDev&layout=compact&langs_count=15&theme=tokyonight)
 ### Contact me! 📭
-<div>
-<a href="https://www.linkedin.com/in/lu%C3%ADs-henrique-433b76210" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+
+[![Linkedin Badge](https://img.shields.io/badge/-Luis%20Henrique-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lu%C3%ADs-henrique-433b76210)](https://www.linkedin.com/in/lu%C3%ADs-henrique-433b76210)
 [![Gmail Badge](https://img.shields.io/badge/-lhdeveloper137@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lhdeveloper137@gmail.com)](mailto:lhdeveloper137@gmail.com)  
-</div>
 
 
 <!--
