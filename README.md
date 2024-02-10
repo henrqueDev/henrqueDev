@@ -13,7 +13,7 @@
 
 ✒️ I like to read mangas and watch videos in youtube about Games in foreign languages to practice my reading and listening skills in english;
 
-📚 Reading: Clean code
+📚 Reading: Segurança de aplicativos Android
 
 **Tecnologies and Tools**
 
