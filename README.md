@@ -52,7 +52,7 @@
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%2300FF7F.svg?style=for-the-badge&logo=spring&logoColor=white)
-
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 <!-- (Você pode adicionar novas tecnologias insira ![Nome da Tecnologia](https://img.shields.io/badge/-[Nome da tecnologia]-[Cor do fundo]?style=flat-square&logo=[Nome da tecnologia])) -->
 
 <!--  ### Cursos realizados 🤓
