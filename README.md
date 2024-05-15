@@ -5,6 +5,8 @@
 
 👩‍💻 1 year and 6 months internship experience as a Frontend Developer ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)  at Assert IFPB
 
+💼 Currently a Back-end Developer Intern at Stalo | Software Studio
+
 <!-- Isso é um comentário, não irá aparecer no seu perfil
 (Abaixo você seleciona o curso que você está fazendo no momento) -->
 
