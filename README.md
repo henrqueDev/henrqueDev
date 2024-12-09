@@ -3,17 +3,17 @@
 ### About me 
 
 
-👩‍💻 1 year and 6 months internship experience as a Frontend Developer ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)  at Assert IFPB
+👩‍💻 1 year and 6 months internship experience as Frontend Developer ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)  at Assert IFPB
 
-👩‍💻 1 month experience as a Full-Stack Web Developer 
+👩‍💻 1 month experience as Full-Stack Web Developer 
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%2300FF.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) at RedM Dedicated Server
 
-💼 Currently a Back-end Developer Intern 
+👩‍💻 8 months experience as Back-end Developer Intern 
+💼 1 month experience as Back-end Developer - Junior
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%2300FF.svg?style=for-the-badge&logo=docker&logoColor=white) at Stalo | Software Studio
-
 
 <!-- Isso é um comentário, não irá aparecer no seu perfil
 (Abaixo você seleciona o curso que você está fazendo no momento) -->
