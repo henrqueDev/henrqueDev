@@ -10,7 +10,7 @@
 ![Docker](https://img.shields.io/badge/docker-%2300FF.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) at RedM Dedicated Server
 
-👩‍💻 8 months experience as Back-end Developer Intern 
+👩‍💻 8 months experience as Back-end Developer - Intern
 💼 1 month experience as Back-end Developer - Junior
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%2300FF.svg?style=for-the-badge&logo=docker&logoColor=white) at Stalo | Software Studio
