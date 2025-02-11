@@ -14,7 +14,7 @@
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%2300FF.svg?style=for-the-badge&logo=docker&logoColor=white) at Stalo | Software Studio
 
-💼 1 month experience as Back-end Developer - Junior
+💼 2 months experience as Back-end Developer - Junior
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%2300FF.svg?style=for-the-badge&logo=docker&logoColor=white) at Stalo | Software Studio
 
