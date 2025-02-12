@@ -21,7 +21,7 @@
 <!-- Isso é um comentário, não irá aparecer no seu perfil
 (Abaixo você seleciona o curso que você está fazendo no momento) -->
 
-🎓 I am studying Tecnologia em Sistemas para Internet @ Instituto Federal da Paraíba - Campus João Pessoa
+🎓 Graduated in Internet Systems @ Instituto Federal da Paraíba - Campus João Pessoa
 
 ✒️ I like to read mangas and watch videos in youtube about Games in foreign languages to practice my reading and listening skills in english;
 
