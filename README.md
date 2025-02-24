@@ -1,7 +1,3 @@
-# Hi, i am Luís Henrique 👋
-
-### About me 
-
 🎓 Graduated in Internet Systems @ Instituto Federal da Paraíba - Campus João Pessoa
 
 **Tecnologies and Tools**
