@@ -1,4 +1,4 @@
-![Actix Framework logo as Mangekyou Sharingan GIF](https://github.com/user-attachments/assets/4fe43e94-2dff-48a8-a68f-9eb33fc9e11d)
+![Actix Framework logo as Mangekyou Sharingan GIF](https://github.com/user-attachments/assets/47353914-d9ba-4941-bc65-f0cae890a019)
 
 🎓 Graduated in Internet Systems @ Instituto Federal da Paraíba - Campus João Pessoa
 
