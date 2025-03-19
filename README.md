@@ -1,8 +1,8 @@
+![Actix Framework logo as Mangekyou Sharingan GIF](https://github.com/user-attachments/assets/4fe43e94-2dff-48a8-a68f-9eb33fc9e11d)
+
 🎓 Graduated in Internet Systems @ Instituto Federal da Paraíba - Campus João Pessoa
 
 **Tecnologies and Tools**
-
-<!-- (Aqui você pode adicionar tecnologias que aprendeu no curso, já listamos algumas delas, e outras que já domina)) -->
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
