@@ -1,25 +1,51 @@
-🎓 Graduated in Internet Systems @ Instituto Federal da Paraíba - Campus João Pessoa
+# Luís Henrique
 
-👨‍💻 Migrating to Data Science
+- 🎓 **Internet Systems Graduate** — Instituto Federal da Paraíba
+- 📊 **Data Science & Machine Learning**
+- 🐍 **Python · Pandas · NumPy · Scikit-learn · TensorFlow**
 
-**Tecnologies and Tools**
+I'm a software developer with a background in **Internet Systems**, currently focused on **Data Science and Machine Learning**.
 
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=ffffff)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=fff)
-![NumPy](https://img.shields.io/badge/NumPy-4DABCF?style=for-the-badge&logo=numpy&logoColor=fff)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=fff)
-![NoSQL](https://img.shields.io/badge/NoSQL-%234ea94b.svg?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-FFFFFF?style=for-the-badge)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=fff)
+I enjoy working with real-world datasets, combining **statistical analysis, machine learning and domain knowledge** to investigate and solve practical problems.
 
-### I am studying... 🧩
+### 🔬 Areas of Interest
 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+* Machine Learning & Deep Learning
+* Data Analysis & Statistical Modeling
+* Geospatial & Spatiotemporal Data
+* Remote Sensing
+* Scientific Computing
+* Environmental & Energy Data
+
+### 🛠️ Technologies
+
+**Data Science**
+
+`Python` · `Pandas` · `NumPy` · `SciPy`
+
+**Machine Learning**
+
+`Scikit-learn` · `TensorFlow`
+
+**Data Visualization**
+
+`Matplotlib` · `Seaborn`
+
+**Geospatial / Scientific**
+
+`GeoPandas` · `Rasterio` · `Shapely` · `Astral`
+
+**Development**
+
+`PHP` · `Laravel` · `Python` · `FastAPI` · `Typescript` · `React Native` · `ElectronJS` · `Git`
+
+---
+
+### 📚 Currently Studying
+
+**Machine Learning · Deep Learning · Statistics · Geospatial Data Science · Scientific Computing**
+
+Feel free to explore my repositories and follow my progress.
 
 ### Contact me! 📭
 
